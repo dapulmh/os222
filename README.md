@@ -1,2 +1,2 @@
-# os231
-Operating Systems 2023-1
+# os222
+Operating Systems 2022-2
