@@ -5,7 +5,7 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG](https://mnabielap.github.io/os222/TXT/mylog.txt) ---
+[LOG](https://dapulmh.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/dapulmh.tar.xz) ---
 [GITHUB](https://github.com/dapulmh/os222)
 <br>
