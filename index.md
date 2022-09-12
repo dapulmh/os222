@@ -6,7 +6,7 @@
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG](https://dapulmh.github.io/os222/TXT/mylog.txt) ---
-[TARBALL](SandBox/dapulmh.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/dapulmh.tar.bz2.txt) ---
 [GITHUB](https://github.com/dapulmh/os222)
 <br>
 <hr>
