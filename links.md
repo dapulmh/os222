@@ -59,6 +59,32 @@ $	| matches end of string
 ?	| Matches up exactly one character
 ```
 
+# WEEK-02
+
+1. [what is cybersecurity ?](https://www.ibm.com/topics/cybersecurity)<br>
+Cybersecurity is the practice of protecting critical systems and sensitive information from digital attacks. Also known as information technology (IT) security, cybersecurity measures are designed to combat threats against networked systems and applications, whether those threats originate from inside or outside of an organization.
+
+2. [Which Information Should You Keep Private ? ](http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)<br>
+Metadata
+Metadata is the descriptive information about our communications and activities. It allows for government agencies and other organizations to make inferences about you without actually listening to your phone calls or monitoring your computer. Because many of the privacy laws that the NSA and internet companies fall under are outdated, their application to metadata is unclear. This information can be used to determine someone’s location via their devices without directly “tracking” them.
+
+Passwords
+Keeping your passwords private is an obvious addition to this list. However, using strong passwords is just as important as keeping your passwords private and secure. If you are using a short and predictable password, it will be vulnerable to brute force attacks. It’s a good idea to use longer and more complex passwords, with a reputable password manager to store them. This way you can use a different password for each service without having to remember them all.
+
+Financial Information
+Keeping your financial information safe on the internet can be overwhelming, especially if you are accustomed to doing a lot of online shopping. It is important that you only share this information on secure websites that you trust and that use HTTPS (SSL encryption). Breaches in financial information can lead to identity theft and can damage your credit
+
+3. [6 Benefits of Cyber Security – Defending Against Cyber Attacks](https://deandorton.com/cyber-security-benefits/)<br>
+
+```
+1. Protection against external threats
+2. Protection against internal threats
+3. Regulation compliance
+4. Improved productivity
+5. Cost savings and value
+6. Brand trust and reputation
+```
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
