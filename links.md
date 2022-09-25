@@ -85,6 +85,29 @@ Keeping your financial information safe on the internet can be overwhelming, esp
 6. Brand trust and reputation
 ```
 
+# WEEK-03
+
+1. [How to Encrypt and Decrypt Files With GPG on Linux](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/)
+
+'''
+- Generating Your Keys
+- Generating a Revocation Certificate
+- Importing Someone Else’s Public Key
+- Verifying and Signing a Key
+- How To Share Your Public Key
+- Encrypting FIles
+- Decrypting Files
+- Refreshing Your Keys
+'''
+
+2. [File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)
+
+A file is a collection of correlated information which is recorded on secondary or non-volatile storage like magnetic disks, optical disks, and tapes. It is a method of data collection that is used as a medium for giving input and receiving output from that program.
+
+3. [Fragmentation in Operating System](https://www.javatpoint.com/fragmentation-in-operating-system)
+
+Fragmentation is an unwanted problem in the operating system in which the processes are loaded and unloaded from memory, and free memory space is fragmented. Processes can't be assigned to memory blocks due to their small size, and the memory blocks stay unused. It is also necessary to understand that as programs are loaded and deleted from memory, they generate free space or a hole in the memory. These small blocks cannot be allotted to new arriving processes, resulting in inefficient memory use.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
