@@ -90,6 +90,7 @@ Keeping your financial information safe on the internet can be overwhelming, esp
 1.[How to Encrypt and Decrypt Files With GPG on Linux](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/)
 
 '''
+
 - Generating Your Keys
 - Generating a Revocation Certificate
 - Importing Someone Else’s Public Key
@@ -98,6 +99,7 @@ Keeping your financial information safe on the internet can be overwhelming, esp
 - Encrypting FIles
 - Decrypting Files
 - Refreshing Your Keys
+
 '''
 
 2.[File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)
