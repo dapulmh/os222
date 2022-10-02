@@ -40,12 +40,15 @@ ZCZC W03 12 L03 GitHub related
 ZCZC W03 12 L04 GitHub Pages related
 ZCZC W03  3 L05 QUIZ
 ZCZC W03 120 L09 Weekly Assignments
+ZCZC W04 40 L00 General, etc.
 ZCZC W04 40 L01 SCELE/Discord related
 ZCZC W04 120 L02 ZOOM meetings related
-ZCZC W04 30 L03 GitHub related
-ZCZC W04 40 L04 GitHub Pages related
-ZCZC W04  5 L05 QUIZ 2
-ZCZC W04  3 L06 QUIZ 1
-ZCZC W04 60 L07 updates links.md
-ZCZC W04 60 L08 read links and demo
-ZCZC W04 140 L09 Weekly Assignments
+ZCZC W04 120 L02 ZOOM meetings related
+ZCZC W04 20 L03 GitHub related
+ZCZC W04 20 L04 GitHub Pages related
+ZCZC W04  5 L05 QUIZ
+ZCZC W04  3 L05 QUIZ
+ZCZC W04 120 L09 Weekly Assignments
+ZCZC W04 40 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W04 20 L25 C-language including Make.
+ZCZC W04 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
