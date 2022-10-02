@@ -5,3 +5,6 @@ ZCZC W02 Doppledouble
 ZCZC W03 diafias 
 ZCZC W03 dhafinn
 ZCZC W03 divanyh
+ZCZC W04 diablofied
+ZCZC W04 diafias
+ZCZC W04 dhafinn
