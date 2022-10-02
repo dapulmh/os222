@@ -108,6 +108,24 @@ A file is a collection of correlated information which is recorded on secondary 
 
 Fragmentation is an unwanted problem in the operating system in which the processes are loaded and unloaded from memory, and free memory space is fragmented. Processes can't be assigned to memory blocks due to their small size, and the memory blocks stay unused. It is also necessary to understand that as programs are loaded and deleted from memory, they generate free space or a hole in the memory. These small blocks cannot be allotted to new arriving processes, resulting in inefficient memory use.
 
+# WEEK-04
+
+1. [Difference between Virtual and Physical Address](https://www.javatpoint.com/virtual-vs-physical-address)
+
+The addresses identify a location in the memory where the actual code resides in the system in the operating system. We store the data in the memory at different locations with addresses to access the data again whenever required in the future. There are two types of addresses used for memory in the operating system, i.e., the physical address and logical address.
+
+The logical address is a virtual address viewed by the user. The user can't view the physical address directly. The logical address is used as a reference to access the physical address. The fundamental difference between logical and physical addresses is that the CPU generates the logical address during program execution. In contrast, the physical address refers to a location in the memory unit.
+
+2. [Paging | Memory Management | Operating System](gatevidyalay.com/paging-memory-management-operating-system/)
+
+This site has a good explanation about paging and memory management in general.
+
+3. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+
+This video is actually pretty helpful in helping me understand pointers.
+
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
