@@ -116,7 +116,7 @@ The addresses identify a location in the memory where the actual code resides in
 
 The logical address is a virtual address viewed by the user. The user can't view the physical address directly. The logical address is used as a reference to access the physical address. The fundamental difference between logical and physical addresses is that the CPU generates the logical address during program execution. In contrast, the physical address refers to a location in the memory unit.
 
-2. [Paging | Memory Management | Operating System](gatevidyalay.com/paging-memory-management-operating-system/)
+2. [Paging, Memory Management, Operating System](gatevidyalay.com/paging-memory-management-operating-system/)
 
 This site has a good explanation about paging and memory management in general.
 
