@@ -124,8 +124,30 @@ This site has a good explanation about paging and memory management in general.
 
 This video is actually pretty helpful in helping me understand pointers.
 
+# WEEK-05
 
+1.[How to Backup VM(s) on VirtualBox](https://www.osradar.com/how-to-backup-vms-on-virtualbox/)
 
+There's many method to backup VM(s) on virtual box such as :
+
+- Snapshots
+- Exporting VMs <br>
+
+2.[Demand Paging in OS (Operating System): Example, Advantages, Working](https://digitalthinkerhelp.com/demand-paging-in-os-operating-system-examples-advantages-working/)
+
+  Demand paging is a process of swapping in the Virtual Memory system. In this process, all data is not moved from hard drive to main memory because while using this demand paging, when some programs are getting demand then data will be transferred. But, if required data is already existed into memory then not need to copy of data. The demand paging system is done with swapping from auxiliary storage to primary memory, so it is known as “Lazy Evaluation”. <br>
+
+3.[How computer memory works - Kanawat Senanan](https://www.youtube.com/watch?v=p3q5zWCw8J4)
+
+This video help me to understand how memory works. It visualizes the processes happening inside our computer. <br>
+
+4.[Page Replacement in OS](https://www.scaler.com/topics/operating-system/page-replacement-algorithm/)
+
+Page replacement is needed in the operating systems that use virtual memory using Demand Paging. As we know that in Demand paging, only a set of pages of a process is loaded into the memory. This is done so that we can have more processes in the memory at the same time. <br>
+
+5.[How to Cut, Copy and Paste in Vim / Vi](https://phoenixnap.com/kb/cut-copy-paste-vim)
+
+Vim is a commonly used open-source text editor installed by default on most Unix distributions. You can use the text editor in two modes, from a command-line interface or as an independent application in a GUI. <br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
