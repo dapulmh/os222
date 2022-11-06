@@ -153,3 +153,28 @@ Vim is a commonly used open-source text editor installed by default on most Unix
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
+# WEEK-06
+
+1.[Multithreading vs. Multiprocessing: What's the Difference?](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing)
+
+Multithreading is a programming technique that assigns multiple code segments to a single process. These code segments, also referred to as threads, run concurrently and parallel to each other.
+
+Multiprocessing refers to a system that has more than two central processing units (CPUs). Every additional CPU added to a system increases its speed, power and memory. This allows users to run multiple processes simultaneously. Each CPU may also function independently, and some CPUs may remain idle if they don't have anything to process. 
+
+2.[fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+
+Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). After a new child process is created, both processes will execute the next instruction following the fork() system call. A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process.
+
+3.[What is Process Scheduling?](studytonight.com/operating-system/process-scheduling)
+
+The act of determining which process is in the ready state, and should be moved to the running state is known as Process Scheduling.
+
+4.[Understanding fork() system call for new process creation](https://www.youtube.com/watch?v=PwxTbksJ2fo)
+
+This video help me to understanding fork system.
+
+5.[L-1.11: Process Vs Threads in Operating System](https://www.youtube.com/watch?v=ITc09gOrqZk)
+
+This video help me to understanding process and threads in operating system.
+
