@@ -166,7 +166,7 @@ Multiprocessing refers to a system that has more than two central processing uni
 
 Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). After a new child process is created, both processes will execute the next instruction following the fork() system call. A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process.
 
-3.[What is Process Scheduling?](studytonight.com/operating-system/process-scheduling)
+3.[What is Process Scheduling?](https://www.studytonight.com/operating-system/process-scheduling)
 
 The act of determining which process is in the ready state, and should be moved to the running state is known as Process Scheduling.
 
