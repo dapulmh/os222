@@ -74,3 +74,15 @@ ZCZC W06  3 L05 QUIZ
 ZCZC W06 90 L06 References/Books/Document/Browsing/GSGS related
 ZCZC W06 120 L73 Gaming including Board Games.
 ZCZC W06 180 L09 Weekly Assignments
+ZCZC W07 25 L00 General, etc.
+ZCZC W07 40 L01 SCELE/Discord related
+ZCZC W07 120 L02 ZOOM meetings related
+ZCZC W07 30 L03 GitHub related
+ZCZC W07 60 L04 GitHub Pages related and links
+ZCZC W07 120 L02 ZOOM meetings related
+ZCZC W07 150 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W07  3 L05 QUIZ
+ZCZC W07  5 L05 QUIZ
+ZCZC W07 60 L06 References/Books/Document/Browsing/GSGS related
+ZCZC W07 150 L73 Gaming including Board Games.
+ZCZC W07 200 L09 Weekly Assignments
