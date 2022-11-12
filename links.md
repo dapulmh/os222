@@ -178,3 +178,27 @@ This video help me to understanding fork system.
 
 This video help me to understanding process and threads in operating system.
 
+# WEEK-07
+
+1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/?ref=lbp)
+
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. 
+Consider an example when two trains are coming toward each other on the same track and there is only one track, none of the trains can move once they are in front of each other. A similar situation occurs in operating systems when there are two or more processes that hold some resources and wait for resources held by other(s).
+
+2. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+
+it's help me to finish my weekly assignment
+
+3. [The Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)
+
+Critical Section is the part of a program which tries to access shared resources. 
+
+4. [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)
+
+Deadlock occurs when each process holds a resource and wait for other resource held by any other process. Necessary conditions for deadlock to occur are Mutual Exclusion, Hold and Wait, No Preemption and Circular Wait.
+
+Starvation is the problem that occurs when high priority processes keep executing and low priority processes get blocked for indefinite time.
+
+5. [DEFINITION race condition](https://www.techtarget.com/searchstorage/definition/race-condition#:~:text=A%20race%20condition%20is%20an,sequence%20to%20be%20done%20correctly.)
+
+A race condition is an undesirable situation that occurs when a device or system attempts to perform two or more operations at the same time, but because of the nature of the device or system, the operations must be done in the proper sequence to be done correctly.
