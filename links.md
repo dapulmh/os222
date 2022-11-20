@@ -202,3 +202,13 @@ Starvation is the problem that occurs when high priority processes keep executin
 5. [DEFINITION race condition](https://www.techtarget.com/searchstorage/definition/race-condition#:~:text=A%20race%20condition%20is%20an,sequence%20to%20be%20done%20correctly.)
 
 A race condition is an undesirable situation that occurs when a device or system attempts to perform two or more operations at the same time, but because of the nature of the device or system, the operations must be done in the proper sequence to be done correctly.
+
+# WEEK-08
+
+1.[Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html/)
+
+Scheduling in operating system is the process of selecting a process from a ready queue. And allotting CPU to this process for execution. The operating system schedules the processes in such a way that the CPU doesn’t sit idle. And keeps processing some or the other process.
+
+2.[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
+
+This site tells me about how to make Linux From Scratch. It helps me in doing this week assignments.
