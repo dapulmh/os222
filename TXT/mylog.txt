@@ -97,3 +97,14 @@ ZCZC W08  3 L05 QUIZ
 ZCZC W08  5 L05 QUIZ
 ZCZC W08 150 L73 Gaming including Board Games.
 ZCZC W08 300 L09 Weekly Assignments
+ZCZC W09 15 L00 General, etc.
+ZCZC W09 20 L01 SCELE/Discord related
+ZCZC W09 120 L02 ZOOM meetings related / meet offline
+ZCZC W09 15 L03 GitHub related
+ZCZC W09 30 L04 GitHub Pages related and links
+ZCZC W09 120 L02 ZOOM meetings related /meet offline
+ZCZC W09 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W09 180 L73 Gaming including Board Games.
+ZCZC W09  3 L05 QUIZ
+ZCZC W09  5 L05 QUIZ
+ZCZC W09 250 L09 Weekly Assignments
