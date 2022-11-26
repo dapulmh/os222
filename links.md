@@ -212,3 +212,9 @@ Scheduling in operating system is the process of selecting a process from a read
 2.[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
 
 This site tells me about how to make Linux From Scratch. It helps me in doing this week assignments.
+
+# WEEK-09
+
+1.[MBR Vs GPT: What Are Master Boot Record & GUID Partition Table](https://www.softwaretestinghelp.com/mbr-vs-gpt/)
+
+Complete guide to two types of disk partitioning Master Boot Record & GUID Partition Table. Also learn the key difference between MBR vs GPT from this website.
