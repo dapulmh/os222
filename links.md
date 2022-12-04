@@ -148,11 +148,7 @@ Page replacement is needed in the operating systems that use virtual memory usin
 5.[How to Cut, Copy and Paste in Vim / Vi](https://phoenixnap.com/kb/cut-copy-paste-vim)
 
 Vim is a commonly used open-source text editor installed by default on most Unix distributions. You can use the text editor in two modes, from a command-line interface or as an independent application in a GUI. <br>
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+
 
 # WEEK-06
 
@@ -234,3 +230,11 @@ A key concept in the design of I/O software is that it should be device independ
 3. [What Does Direct Memory Access (DMA) Mean?](https://www.techopedia.com/definition/2767/direct-memory-access-dma)
 
 Direct memory access (DMA) is a method that allows an input/output (I/O) device to send or receive data directly to or from the main memory, bypassing the CPU to speed up memory operations.
+
+
+
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
