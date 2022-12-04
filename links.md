@@ -218,3 +218,19 @@ This site tells me about how to make Linux From Scratch. It helps me in doing th
 1.[MBR Vs GPT: What Are Master Boot Record & GUID Partition Table](https://www.softwaretestinghelp.com/mbr-vs-gpt/)
 
 Complete guide to two types of disk partitioning Master Boot Record & GUID Partition Table. Also learn the key difference between MBR vs GPT from this website.
+
+# WEEK-10
+
+1. [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+
+One of the important jobs of an Operating System is to manage various I/O devices including mouse, keyboards, touch pad, disk drives, display adapters, USB devices, Bit-mapped screen, LED, Analog-to-digital converter, On/off switch, network connections, audio I/O, printers etc.
+
+An I/O system is required to take an application I/O request and send it to the physical device, then take whatever response comes back from the device and send it to the application. I/O devices can be divided into two categories 
+
+2. [Operating System - I/O Softwares](https://www.tutorialspoint.com/operating_system/os_io_software.htm)
+
+A key concept in the design of I/O software is that it should be device independent where it should be possible to write programs that can access any I/O device without having to specify the device in advance. For example, a program that reads a file as input should be able to read a file on a floppy disk, on a hard disk, or on a CD-ROM, without having to modify the program for each different device.
+
+3. [What Does Direct Memory Access (DMA) Mean?](https://www.techopedia.com/definition/2767/direct-memory-access-dma)
+
+Direct memory access (DMA) is a method that allows an input/output (I/O) device to send or receive data directly to or from the main memory, bypassing the CPU to speed up memory operations.
